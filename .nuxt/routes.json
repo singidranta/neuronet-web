@@ -1,0 +1,87 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_0ddcc36a"
+  },
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\account\\\\index.vue",
+    "chunkName": "pages/account/index",
+    "_name": "_1778218a"
+  },
+  {
+    "name": "docs",
+    "path": "/docs",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\docs.vue",
+    "chunkName": "pages/docs",
+    "_name": "_46df6680"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_05c2f818"
+  },
+  {
+    "name": "model-usage",
+    "path": "/model-usage",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\model-usage.vue",
+    "chunkName": "pages/model-usage",
+    "_name": "_39a31248"
+  },
+  {
+    "path": "/models",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\models.vue",
+    "chunkName": "pages/models",
+    "children": [
+      {
+        "name": "models",
+        "path": "",
+        "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\models\\\\index.vue",
+        "chunkName": "pages/models/index",
+        "_name": "_c5ef1c9a"
+      }
+    ],
+    "_name": "_dffe3022"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_7d01ed11"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_ff22bf30"
+  },
+  {
+    "name": "account-billing",
+    "path": "/account/billing",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\account\\\\billing.vue",
+    "chunkName": "pages/account/billing",
+    "_name": "_0e56d6b3"
+  },
+  {
+    "name": "account-change-nickname",
+    "path": "/account/change-nickname",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\account\\\\change-nickname.vue",
+    "chunkName": "pages/account/change-nickname",
+    "_name": "_12cecbba"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Artem\\\\Documents\\\\MyProvider\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3376e0dd"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "my-ai-provider",
+  "version": "1.0.0",
+  "description": "AI Service Provider Website",
+  "author": "NeuralNet",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "start:static": "npm run generate && npx serve dist",
+    "serve": "npx serve dist"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@supabase/supabase-js": "^2.38.4",
+    "axios": "^1.6.2",
+    "dotenv": "^17.2.3",
+    "nuxt": "^2.15.8",
+    "particles.js": "^2.0.0",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
